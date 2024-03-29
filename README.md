@@ -1,2 +1,2 @@
-# HISTORIA-SON-GOKU
-un pequeño fracmento de la historia de goku
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
